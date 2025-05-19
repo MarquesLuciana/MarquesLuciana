@@ -11,7 +11,7 @@
 
 ### *Sobre Mim*
 
-Sou estudante de Ciências da Computação e atualmente participo do bootcamp *Recode Pro IA*, onde estou mergulhando no mundo do desenvolvimento Full Stack com foco em tecnologias modernas como JavaScript, React, Node.js, Python e Inteligência Artificial.  
+Sou estudante de Ciências da Computação e atualmente participo do programa de formação da *Recode Pro IA*, onde estou mergulhando no mundo do desenvolvimento Full Stack com foco em tecnologias modernas como JavaScript, React, Node.js, Python e Inteligência Artificial.  
 Tenho uma trajetória que combina organização, criatividade e muita vontade de aprender.
 
 ---
