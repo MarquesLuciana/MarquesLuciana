@@ -45,8 +45,5 @@ Tenho uma trajetória que combina organização, criatividade e muita vontade de
 
 
 
-git clone https://github.com/seu-usuario/git-snake.git
-cd git-snake
-
 
 > “O código é poesia escrita em lógica.” – Luciana
