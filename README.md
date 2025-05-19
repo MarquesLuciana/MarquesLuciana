@@ -1,6 +1,6 @@
 # Olá! Eu sou a Luciana Marques da Conceição
 
-*Desenvolvedora Full Stack em formação | Foco em JavaScript, Python, React e IA*
+*Desenvolvedora Full Stack em formação | Foco em JavaScript, Python, React e IA *
 
 Sou bacharel em Ciências da Computação (em andamento) e apaixonada por tecnologia e inovação. Atualmente participo do programa Recode Pro IA, onde venho desenvolvendo projetos práticos com foco em desenvolvimento Full Stack e Inteligência Artificial.
 
